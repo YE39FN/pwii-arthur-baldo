@@ -13,7 +13,7 @@
     echo "<br>";
 
 
-    $y = ['Arthur', 'Heitor', 'André', 2],
+    $y = ['Arthur', 'Heitor', 'André', 2];
 
     var_dump($y);
     echo "<br>";
@@ -22,6 +22,6 @@
 
     $meuObj = new stdClass();
     $meuObj->nome = "Heitor";
-    $meuObj->idade = 
+    $meuObj->idade = "26";
 
 ?>
